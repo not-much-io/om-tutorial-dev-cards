@@ -1,0 +1,11 @@
+.idea
+*iml
+figwheel_server.log
+resources/public/js
+resources/public/cards
+target
+.lein-repl-history
+resources/public/tutorial
+checkouts
+.nrepl-port
+resources/public/pages
